@@ -1,0 +1,2 @@
+# Taken from the Bazel `rules_rust` Github repository
+build --@rules_rust//rust/toolchain/channel=nightly
